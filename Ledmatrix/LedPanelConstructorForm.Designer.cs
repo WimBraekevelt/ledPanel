@@ -47,7 +47,6 @@
             this.groupBoxPanelConstructor.TabIndex = 0;
             this.groupBoxPanelConstructor.TabStop = false;
             this.groupBoxPanelConstructor.Text = "Create a led panel";
-            this.groupBoxPanelConstructor.Enter += new System.EventHandler(this.groupBoxPanelConstructor_Enter);
             // 
             // labelRowsNumber
             // 
